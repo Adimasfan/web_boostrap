@@ -13,10 +13,10 @@
     border: 3px ridge blue;
     border-radius: 30px; 
 }
-/* .bg03{
-    background-color: rgb(229, 255, 0);
-    margin: 5px auto;
-} */
+#kk{
+    text-align: center;
+    padding-bottom: 30px;
+}
 .c2{
     margin-top: 100px;
 }
@@ -31,6 +31,9 @@
 }
 .img{
     height: 180px;
+}
+.email{
+    margin-left: 20px;
 }
 .button{
     align-items: center;
@@ -56,6 +59,7 @@ footer .kanan{
     color: aliceblue;
     text-decoration: none;
 }
+
 /* .tombol a{
     margin-left: 16px;
     padding: 0px 100px;
